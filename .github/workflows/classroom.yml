@@ -20,7 +20,6 @@ permissions:
 jobs:
   grade:
     name: Autograding
-    if: ${{ !github.event.repository.is_template }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
