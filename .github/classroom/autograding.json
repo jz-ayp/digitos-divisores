@@ -1,0 +1,204 @@
+{
+  "tests": [
+    {
+      "name": "Test01: 81925",
+      "setup": "",
+      "run": "LANG=en_US.utf8 timeout 1m python digitos_divisores.py",
+      "input": "81925",
+      "output": "^\\D*2\\D*$",
+      "comparison": "regex",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test02: 55578",
+      "setup": "",
+      "run": "LANG=en_US.utf8 timeout 1m python digitos_divisores.py",
+      "input": "55578",
+      "output": "^\\D*0\\D*$",
+      "comparison": "regex",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test03: 72387",
+      "setup": "",
+      "run": "LANG=en_US.utf8 timeout 1m python digitos_divisores.py",
+      "input": "72387",
+      "output": "^\\D*3\\D*$",
+      "comparison": "regex",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test04: 7552",
+      "setup": "",
+      "run": "LANG=en_US.utf8 timeout 1m python digitos_divisores.py",
+      "input": "7552",
+      "output": "^\\D*1\\D*$",
+      "comparison": "regex",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test05: 32665",
+      "setup": "",
+      "run": "LANG=en_US.utf8 timeout 1m python digitos_divisores.py",
+      "input": "32665",
+      "output": "^\\D*1\\D*$",
+      "comparison": "regex",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test06: 28485",
+      "setup": "",
+      "run": "LANG=en_US.utf8 timeout 1m python digitos_divisores.py",
+      "input": "28485",
+      "output": "^\\D*1\\D*$",
+      "comparison": "regex",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test07: 85604",
+      "setup": "",
+      "run": "LANG=en_US.utf8 timeout 1m python digitos_divisores.py",
+      "input": "85604",
+      "output": "^\\D*1\\D*$",
+      "comparison": "regex",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test08: 16591",
+      "setup": "",
+      "run": "LANG=en_US.utf8 timeout 1m python digitos_divisores.py",
+      "input": "16591",
+      "output": "^\\D*2\\D*$",
+      "comparison": "regex",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test09: 80209",
+      "setup": "",
+      "run": "LANG=en_US.utf8 timeout 1m python digitos_divisores.py",
+      "input": "80209",
+      "output": "^\\D*0\\D*$",
+      "comparison": "regex",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test10: 75093",
+      "setup": "",
+      "run": "LANG=en_US.utf8 timeout 1m python digitos_divisores.py",
+      "input": "75093",
+      "output": "^\\D*1\\D*$",
+      "comparison": "regex",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test11: 2293328423",
+      "setup": "",
+      "run": "LANG=en_US.utf8 timeout 1m python digitos_divisores.py",
+      "input": "2293328423",
+      "output": "^\\D*0\\D*$",
+      "comparison": "regex",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test12: 22423244887",
+      "setup": "",
+      "run": "LANG=en_US.utf8 timeout 1m python digitos_divisores.py",
+      "input": "22423244887",
+      "output": "^\\D*0\\D*$",
+      "comparison": "regex",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test13: 42393239858",
+      "setup": "",
+      "run": "LANG=en_US.utf8 timeout 1m python digitos_divisores.py",
+      "input": "42393239858",
+      "output": "^\\D*2\\D*$",
+      "comparison": "regex",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test14: 42735069745",
+      "setup": "",
+      "run": "LANG=en_US.utf8 timeout 1m python digitos_divisores.py",
+      "input": "42735069745",
+      "output": "^\\D*2\\D*$",
+      "comparison": "regex",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test15: 19038110187",
+      "setup": "",
+      "run": "LANG=en_US.utf8 timeout 1m python digitos_divisores.py",
+      "input": "19038110187",
+      "output": "^\\D*5\\D*$",
+      "comparison": "regex",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test16: 40369753699",
+      "setup": "",
+      "run": "LANG=en_US.utf8 timeout 1m python digitos_divisores.py",
+      "input": "40369753699",
+      "output": "^\\D*0\\D*$",
+      "comparison": "regex",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test17: 75738286273",
+      "setup": "",
+      "run": "LANG=en_US.utf8 timeout 1m python digitos_divisores.py",
+      "input": "75738286273",
+      "output": "^\\D*0\\D*$",
+      "comparison": "regex",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test18: 41449453493",
+      "setup": "",
+      "run": "LANG=en_US.utf8 timeout 1m python digitos_divisores.py",
+      "input": "41449453493",
+      "output": "^\\D*1\\D*$",
+      "comparison": "regex",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test19: 58222508615",
+      "setup": "",
+      "run": "LANG=en_US.utf8 timeout 1m python digitos_divisores.py",
+      "input": "58222508615",
+      "output": "^\\D*4\\D*$",
+      "comparison": "regex",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test20: 0",
+      "setup": "",
+      "run": "LANG=en_US.utf8 timeout 1m python digitos_divisores.py",
+      "input": "0",
+      "output": "^\\D*0\\D*$",
+      "comparison": "regex",
+      "timeout": 1,
+      "points": 1
+    }
+  ]
+}
